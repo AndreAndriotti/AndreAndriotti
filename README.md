@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreAndriotti
-- 👀 I’m interested in Software Development / Software Engineering
-- 🌱 I’m currently learning Software Testing
+- 👀 I’m interested in Software Development / Game Development
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React
 - 📫 LinkedIn: www.linkedin.com/in/andreandriotti
 
 <!---
