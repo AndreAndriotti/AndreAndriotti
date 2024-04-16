@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreAndriotti
 - 👀 I’m interested in Software Development / Game Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React
+- 🌱 I’m currently learning Unity Engine and Unreal Engine
 - 📫 LinkedIn: www.linkedin.com/in/andreandriotti
 
 <!---
